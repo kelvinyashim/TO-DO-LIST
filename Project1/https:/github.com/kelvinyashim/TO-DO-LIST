@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 style="text-align:center">TO DO-LIST</h2>
+
+
+<form method="get">
+<input id="demo"  type="text">
+<button>Add</button> <button>Clear</button>
+<p id="demo1"></p>
+
+</form>
+
+<script>
+
+
+</script>
+
+</body>
+
+</html>
+//NEXT WE MAKE THE ADD BUTTON FUCTIONAL
